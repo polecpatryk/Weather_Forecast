@@ -2,9 +2,9 @@
 
 	class Database
 	{
-		const HOST_AND_DB = 'mysql:host=localhost;dbname=id6198039_weather_forecast';
-		const USER        = 'id6198039_patryk';
-		const PASS        = '741963456';
+		const HOST_AND_DB = 'mysql:host=localhost;dbname=dbname';
+		const USER        = 'user';
+		const PASS        = 'pass';
 		
 		private $pdo;
 		
